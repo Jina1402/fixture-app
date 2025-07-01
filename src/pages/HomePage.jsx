@@ -208,7 +208,7 @@ const HomePage = () => {
               <span className="text-xl font-bold gradient-text">Fixure</span>
             </div>
             <p className="text-gray-400">
-              © 2024 Fixure. Transforming feedback into resolution.
+              © 2025 Fixure. Transforming feedback into resolution.
             </p>
           </div>
         </div>
